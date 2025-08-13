@@ -1,0 +1,18 @@
+minerName:
+apiKey: "nock0000-8d6f-ac05-ce42-86fc630d39af"
+log:
+  lv: info
+  path: ./log/
+  name: miner.log
+url:
+  proxy: ""
+proxy:
+    url: ""
+    username: ""
+    password: ""
+language: cn
+line: cn
+extraParams:
+  threads: 14
+  affinityStart: 0
+  affinityStep: 1
